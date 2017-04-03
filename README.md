@@ -1,6 +1,6 @@
 # Lier
 
-Lier reverses return value of method which end with '?'.
+Lier reverses return value of method which end with '?'. (without `respond_to?`)
 
 ## Installation
 
