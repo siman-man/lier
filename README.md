@@ -1,4 +1,5 @@
 # Lier
+test
 
 Lier reverses return value of method which end with '?'. (without `respond_to?`)
 
